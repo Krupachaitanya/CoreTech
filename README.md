@@ -65,7 +65,7 @@ This task was a fantastic dive into UI composition. Initially, I thought web des
 
 # CoreTech
 
-Repository Information: This is the CoreTech repository
+Repository Information: This is the CoreTech repository : [https://github.com/Krupachaitanya/CoreTech](https://github.com/Krupachaitanya/CoreTech)
 
 Website: [https://techcore03.netlify.app/](https://techcore03.netlify.app/)
 
