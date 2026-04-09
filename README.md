@@ -62,3 +62,13 @@ This task was a fantastic dive into UI composition. Initially, I thought web des
 ## 5. Total Time Taken
 **⏱️ 4.5 Hours** total
 *(Spread over initial documentation reading, boilerplate generation, custom styling, debugging form validation, final polish, and writing this report)*
+
+# CoreTech
+
+Repository Information: This is the CoreTech repository
+
+Website: [https://techcore03.netlify.app/](https://techcore03.netlify.app/)
+
+---
+
+<!-- Existing content of the README file will go here -->
